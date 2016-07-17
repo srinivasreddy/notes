@@ -7,4 +7,8 @@
 ## Christopher Hitechen's recommendation list
 1.https://www.goodreads.com/review/list/3125981?shelf=recommended-hitchens-christopher
 
+## David Foster Wallace's catalogue of books at the University of Texas.
+
+1. http://catalog.lib.utexas.edu/search~S18/?searchtype=x&searcharg=david+foster+wallace+library&searchscope=29&sortdropdown=-&SORT=D&extended=0&SUBMIT=Search&searchlimits=&searchorigarg=xdavid+foster+wallace+library
+
 
