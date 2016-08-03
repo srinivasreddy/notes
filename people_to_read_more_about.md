@@ -4,3 +4,4 @@
 4. Scott Aaronson
 5. Bryan Cantrill
 6. Rudolf E. Kálmán
+7. H. R. Giger
