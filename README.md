@@ -14,4 +14,7 @@
 ## Bruce Lee's favourite books.
 1. http://houseofbrucelee.blogspot.in/2012/08/books.html?m=1
 
+## Justice Katju's Favourite books.
+1.http://justicekatju.blogspot.in/2014/06/reading-list.html
+
 
