@@ -1,1 +1,1 @@
-Consider porting http://lmax-exchange.github.io/disruptor/ to Rust
+1. Consider porting http://lmax-exchange.github.io/disruptor/ to Rust
