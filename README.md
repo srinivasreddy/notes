@@ -1,4 +1,7 @@
 
+## Youtube channels
+
+1. https://news.ycombinator.com/item?id=12702651
 
 ## Alan Kay's  recommendation list
 1. http://www.squeakland.org/resources/books/readingList.jsp (OR)
