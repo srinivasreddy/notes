@@ -1,6 +1,6 @@
 ## Andrew NG's favourite books
 
-1.https://www.farnamstreetblog.com/2016/10/short-list-books-new-things/
+1.  https://www.farnamstreetblog.com/2016/10/short-list-books-new-things/
 
 ## Youtube channels
 
