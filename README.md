@@ -23,4 +23,7 @@
 ## Justice Katju's Favourite books.
 1.http://justicekatju.blogspot.in/2014/06/reading-list.html
 
+## Books on Edge.org magazine's library.
+1.https://www.edge.org/library
+
 
