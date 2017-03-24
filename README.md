@@ -26,4 +26,15 @@
 ## Books on Edge.org magazine's library.
 1.https://www.edge.org/library
 
+## Edward Snowden favorite books
 
+     Pay Any Price by James Risen
+  
+     Power Wars by Charlie Savage
+  
+     countdown to Zero Day by Kim Zetter
+  
+     Legacy of Ashes, a History of the CIA by Tim Weiner
+  
+     America's War for the Greater Middle East by Andrew Bacevich
+  
