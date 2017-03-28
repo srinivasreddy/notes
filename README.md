@@ -37,4 +37,7 @@
      Legacy of Ashes, a History of the CIA by Tim Weiner
   
      America's War for the Greater Middle East by Andrew Bacevich
+## Barack Obama favourite Books
+
+http://www.independent.co.uk/arts-entertainment/books/news/barack-obama-favourite-books-president-a7535881.html
   
