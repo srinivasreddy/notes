@@ -1,3 +1,7 @@
+## Scott Aaronon's class 
+
+1.http://stellar.mit.edu/S/course/6/fa11/6.893/index.html
+
 ## Andrew NG's favourite books
 
 1.  https://www.farnamstreetblog.com/2016/10/short-list-books-new-things/
